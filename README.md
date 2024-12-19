@@ -9,7 +9,7 @@ Below are screenshots illustrating the issue:
 ![RDS](./static/rds.png)
 
 #### Screenshot 2: Lambda
-![Lambda](./satic/lambda.png)
+![Lambda](./static/lambda.png)
 
 ## How to run app
 
