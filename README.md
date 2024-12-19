@@ -1,5 +1,12 @@
 # AWS workshop 2
 
+## How to run app
+
+```bash
+pnpm install
+pnpm dev
+```
+
 During my attempt to use AWS services for workshop 2, I encountered a permissions-related issue that prevented me from proceeding.
 
 ### Screenshots:
@@ -11,9 +18,3 @@ Below are screenshots illustrating the issue:
 #### Screenshot 2: Lambda
 ![Lambda](./static/lambda.png)
 
-## How to run app
-
-```bash
-pnpm install
-pnpm dev
-```
